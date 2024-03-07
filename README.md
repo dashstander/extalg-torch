@@ -1,2 +1,2 @@
-# extalg-torch
-Exterior Algebra Utilities in PyTorch
+# extalg
+Exterior Algebra utilities in PyTorch.
